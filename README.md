@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sujit Subhash Sonune
 
 Welcome to my GitHub profile!  
 I'm a passionate full-stack developer and entrepreneur building impactful SaaS platforms and mobile applications that simplify everyday life for students, teachers, businesses, and consumers.  
